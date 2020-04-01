@@ -3,7 +3,7 @@ This repository includes daily data and model predictions for the spread of COVI
 
 The updates are uploaded daily as a new csv file with consistent filename dd/mm/yyyy. Each csv file includes 10 columns with self-descriptive column names: date, infected, daily_infected, recovered, death, active_infected, predicted_active_infected, predicted_total_recovered, predicted_total_death, predicted_total_infected
 
-CONDITION OF USE: We ask the users to please explicitly mention the use of this repository and www.iranCOVID-19.com when developing new products or publishing results.
+CONDITION OF USE: We ask the users to please explicitly mention the use of this repository and www.iranCOVID-19.com when developing new products or publishing results. The data shared in this repository or any component or variation of it is not for any commercial use. Moreover it is covered under the CreativeCommons (CC) Attribution-NonCommercial 4.0 International license.
 
 DISCLAIMER: We are not epidemiologists. We are simply scientists and engineers interested in networks, data and the spreading phenomena. We are not connected or supported by any government organizations in Iran or abroad. Results reported here are not peer-reviewed by other scientists. COVID-19 data from Iran may be significantly under-reported and thus, the actual number of infected cases and deaths may be different. Predictions are simply based on a classical and widely used mathematical model and may carry high level of uncertainty. Therefore, the predictions should be carefully used as means to inform policy making and planning.
 
