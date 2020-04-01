@@ -1,5 +1,5 @@
 # irancovid-19
-This repository includes daily data and model predictions for the spread of COVID-19 in Iran. We push daily updates here consisting of daily reports sourced from the IR Ministry of Health and Medical Education along with our model outcomes for the last 7 days and predictions for the next 500 days.
+This repository includes daily data and model predictions for the spread of COVID-19 in Iran. We push daily updates here consisting of daily reports sourced from the IR Ministry of Health and Medical Education along with our model outcomes for the last 7 days and predictions for the next 500 days. More information on who we are and how our mathematical model works can be found on www.irancovid-19.com.
 
 The updates are uploaded daily as a new csv file with consistent filename dd/mm/yyyy. Each csv file includes 10 columns with self-descriptive column names: date, infected, daily_infected, recovered, death, active_infected, predicted_active_infected, predicted_total_recovered, predicted_total_death, predicted_total_infected
 
